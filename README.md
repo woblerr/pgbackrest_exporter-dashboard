@@ -16,6 +16,6 @@ Depending on the version of the pgbackrest_exporter, it is recommended to use di
 
 | Dashboard version | pgbackrest_exporter version |
 |---|---|
-| `rev5` | `>= v0.20.0` |
+| `rev6` | `>= v0.20.0` |
 | `rev3` |  `>= v0.16.0` `< v0.20.0` |
 | `rev2` | `< v0.16.0` |
